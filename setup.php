@@ -102,10 +102,10 @@ function plugin_init_cfsoft() {
 **/
 function plugin_version_cfsoft() {
 
-   return array('name'           => __('Cfsoft', 'cfsoft'),
+   return array('name'           => __('康虎报表打印插件forGLPI', '康虎云报表'),
                 'version'        => '0.0.1',
                 'license'        => 'GPLv2+',
-                'author'         => 'Liangjia',
+                'author'         => '康虎云报表群583804904',
                 'homepage'       => 'https://github.com/leangjia/glpi_plugins_cfsoft',
                 'minGlpiVersion' => '0.84'); // For compatibility / no install in version < 0.78
 }
