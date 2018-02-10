@@ -105,8 +105,8 @@ function plugin_version_cfsoft() {
    return array('name'           => __('Cfsoft', 'cfsoft'),
                 'version'        => '0.0.1',
                 'license'        => 'GPLv2+',
-                'author'         => 'AL-Rubeiy Hussein, Xavier Caillaud, Nelly Mahu-Lasson',
-                'homepage'       => 'https://forge.indepnet.net/projects/cfsoft',
+                'author'         => 'Liangjia',
+                'homepage'       => 'https://github.com/leangjia/glpi_plugins_cfsoft',
                 'minGlpiVersion' => '0.84'); // For compatibility / no install in version < 0.78
 }
 
